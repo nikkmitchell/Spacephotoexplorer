@@ -1,0 +1,30 @@
+
+---
+
+**LEGAL INFORMATION FOR PHOTOEXPLORER.SPACE**
+
+---
+
+**1. TERMS OF USE**
+
+This plugin ("Plugin") uses an Application Programming Interface (API) provided by the National Aeronautics and Space Administration ("NASA") to access image data. 
+
+**2. PRIVACY**
+
+Our Plugin does not collect any personal data from its users. However, it utilizes NASA's API, and any interaction with NASA's services is subject to NASA's privacy policy.
+
+**3. USER RESPONSIBILITIES**
+
+By using this Plugin, you agree to use it in a manner that complies with all applicable local, state, national, and international laws and regulations.
+
+**4. INTELLECTUAL PROPERTY**
+
+All images accessed through this Plugin via NASA's API are property of NASA, and are credited accordingly. The user may not claim intellectual property rights over these images. Please refer to NASA's Media Usage Guidelines for further information.
+
+**5. LIABILITY AND WARRANTY**
+
+This Plugin is provided on an "as is" basis. We make no guarantees about the continuous availability of the Plugin or the images provided through NASA's API. We are not responsible for any data charges, loss, or damage resulting from the use of this Plugin.
+
+**6. CHANGES TO THIS POLICY**
+
+We may revise this legal document from time to time. The most current version will always be posted on our Plugin description page.
